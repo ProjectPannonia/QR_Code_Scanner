@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "GPPCvll7ri+Lxz5FChxHFCyWi+GlGbt+99o7jpYH4yMwp47A7S/tObpg1ruWnOzQ4jzn5HMjgUAul246Igu4TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leten\\source\\repos\\QR_Code_Scanner\\QR_Code_Scanner\\QR_Code_Scanner.iOS\\QR_Code_Scanner.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leten\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\leten\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\leten\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\leten\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\leten\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
