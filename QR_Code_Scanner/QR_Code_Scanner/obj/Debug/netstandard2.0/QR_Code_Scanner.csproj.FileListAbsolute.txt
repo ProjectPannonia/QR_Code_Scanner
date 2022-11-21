@@ -1,0 +1,15 @@
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\bin\Debug\netstandard2.0\QR_Code_Scanner.deps.json
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\bin\Debug\netstandard2.0\QR_Code_Scanner.dll
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\bin\Debug\netstandard2.0\QR_Code_Scanner.pdb
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\QR_Code_Scanner.csproj.AssemblyReference.cache
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\QR_Code_Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\QR_Code_Scanner.AssemblyInfoInputs.cache
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\QR_Code_Scanner.AssemblyInfo.cs
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\QR_Code_Scanner.csproj.CoreCompileInputs.cache
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\QR_Code_Scanner.dll
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\refint\QR_Code_Scanner.dll
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\QR_Code_Scanner.pdb
+C:\Users\leten\source\repos\QR_Code_Scanner\QR_Code_Scanner\QR_Code_Scanner\obj\Debug\netstandard2.0\ref\QR_Code_Scanner.dll

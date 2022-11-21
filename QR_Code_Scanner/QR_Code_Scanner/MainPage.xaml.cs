@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using ZXing.Net.Mobile.Forms;
 
 namespace QR_Code_Scanner
 {
@@ -13,6 +14,21 @@ namespace QR_Code_Scanner
         public MainPage()
         {
             InitializeComponent();
+        }
+
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            var scan = new ZXingScannerPage();
+            await Navigation.PushModalAsync(scan);
+
+            scan.OnScanResult += (result) =>
+            {
+                Device.BeginInvokeOnMainThread(async () =>
+                {
+                    await Navigation.PopModalAsync();
+                    await DisplayAlert("Valeur QRCode", "" + result.Text, "Ok");
+                });
+            };
         }
     }
 }
